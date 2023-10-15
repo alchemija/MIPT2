@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">My Application</string>
+        <string name="app_name">WordCounterApp</string>
+        <string name="enter_text">Enter text here</string>
+        <string name="calculate">Calculate</string>
+        <string name="result">Result will be displayed here</string>
+
+    <string-array name="count_types">
+        <item>@string/words</item>
+        <item>@string/characters</item>
+        <item>@string/punctuation</item>
+    </string-array>
+
+    <string name="words">Words</string>
+    <string name="characters">Characters</string>
+    <string name="punctuation">Punctuation</string>
+
 </resources>
